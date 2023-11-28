@@ -1,4 +1,4 @@
-package awesomeProject5
+package main
 
 import (
 	"database/sql"
