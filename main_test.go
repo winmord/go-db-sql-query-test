@@ -2,9 +2,9 @@ package main
 
 import (
 	"database/sql"
-	"github.com/stretchr/testify/assert"
 	"testing"
 
+	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"
 	_ "modernc.org/sqlite"
